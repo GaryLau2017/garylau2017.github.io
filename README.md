@@ -1,2 +1,2 @@
-# pdf-merger-app.github.io
+# pdf-merger-app
 pdf-merger-app
